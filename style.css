@@ -20,3 +20,7 @@ button {
   color: white;
   background-color: black;
 }
+
+.btn-big {
+  padding: 15px 20px;
+}
