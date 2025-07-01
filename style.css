@@ -15,3 +15,8 @@ button {
   font-size: 16px;
   cursor: pointer;
 }
+
+.btn-bye {
+  color: white;
+  background-color: black;
+}
